@@ -45,9 +45,10 @@ Les pays identifiés comme les plus prometteurs pour une expansion international
 
 ## 📈 Structure du dépôt  
 
+```text
 Educational_Data_Analysis
 │
-├── Educational_Data_Analysis.ipynb # Notebook principal
+├── Educational_Data_Analysis.ipynb                # Notebook principal
 ├── Martineau_Alexandre_2_presentation_122023.pptx # Présentation PowerPoint
 └── README.md
 
