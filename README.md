@@ -1,4 +1,4 @@
-# 🎓 Educational Data Analysis  
+# 🎓 Analysez des Données de Systèmes Educatifs
 
 **Projet d’analyse exploratoire, univariée et prévisionnelle des systèmes éducatifs mondiaux.**
 
